@@ -1,0 +1,16 @@
+{
+  "name": "naruto-memory-game",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "framer-motion": "^10.12.16",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vite": "^6.2.3"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
